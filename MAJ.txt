@@ -1,0 +1,9 @@
+Important--> "Indentation = done"
+
+16-11-20 
+
+    -Ajouter verification pour item dans liste de urls a ddl. Verifier que l'item contient bien un '.com'
+    -Ajouter une colonne pour la date dans les tables de la bd
+-Simplifier la selection des tables de la bd avec les boutons
+    -Probleme avec boutons/fonction pour obtenir liens de la bd
+-Ajouter une condition a la comprehension de liste pour n'ajouter que les lien se terminat par .com ou .net
